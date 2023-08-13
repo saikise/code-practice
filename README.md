@@ -20,7 +20,3 @@ git clone --recurse-submodules https://github.com/saikise/code-practice.git
 ```bash
 git submodule update --remote
 ```
-
-## Tags
-
-1. Programming tutorials
