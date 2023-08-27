@@ -14,9 +14,3 @@
 ```bash
 git clone --recurse-submodules https://github.com/saikise/code-practice.git
 ```
-
-1. To update your local copy of all Code Practice projects (after cloning using the command above).
-
-```bash
-git submodule update --remote
-```
