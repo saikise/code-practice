@@ -1,3 +1,6 @@
 [submodule "web/next-tailwind-flowbite/simple-portfolio-cwntf"]
 	path = web/next-tailwind-flowbite/simple-portfolio-cwntf
 	url = https://github.com/saikise/simple-portfolio-cwntf
+[submodule "web/next-tailwind-flowbite-supabase/simple-portfolio-with-cms-cwntfs"]
+	path = web/next-tailwind-flowbite-supabase/simple-portfolio-with-cms-cwntfs
+	url = https://github.com/saikise/simple-portfolio-with-cms-cwntfs.git
