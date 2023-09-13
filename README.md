@@ -1,7 +1,7 @@
 # Code Practice
 
 1. Practice programming skills following a single article.
-1. [Written tutorial on how to build each app manually posted on Medium](https://medium.com/@saikise/list/code-practice-780f4532716a).
+1. [Written tutorial for each repo posted on Medium](https://medium.com/@saikise/list/code-practice-780f4532716a).
 1. Repos are available as GitHub templates.
 1. Tech stack used provided in `README.md` of each repo.
 
